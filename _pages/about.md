@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am blablabla.
+I am blablabla.Your major, your previous research experience, your future plan, etc.
 
 ## Education
 _B.E._ in Optoelectronic Information Science and Engineering  
@@ -22,3 +22,7 @@ My previous resarch maily focus on blablabla.
 ## Participation
 - **abcde**: sssssssssss
 - **abcde**: sssssssssss
+
+## Awards
+- award A: **Top 10%** 2023
+- award B: **Top 5%** 2022
