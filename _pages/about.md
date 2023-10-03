@@ -16,8 +16,7 @@ Despite swapping the pretend stethoscope for a real-world adventure with photons
 Embarking on this endeavor, I aim to bring forth a future where my zeal for technology supports and enhances the medical field in its noble pursuits. If you’re navigating through this digital corridor, perhaps we might journey forward together in unison towards this fascinating confluence of biomedicine and engineering?
 
 ## Education
-_B.E._ in Optoelectronic Information Science and Engineering  
-[Huazhong University of Science and Technology](https://www.hust.edu.cn/)  
+_B.E._ in Optoelectronic Information Science and Engineering in [Huazhong University of Science and Technology](https://www.hust.edu.cn/)  
 _June 2020 - September 2024_ (expected gruaduation time)
 
 ## Research Intersets
