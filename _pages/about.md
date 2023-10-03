@@ -20,12 +20,12 @@ _B.E._ in Optoelectronic Information Science and Engineering in [Huazhong Univer
 _June 2020 - September 2024_ (expected gruaduation time)
 
 ## Research Intersets
-My previous resarch maily focus on blablabla.
+My pevious research interests have been largely centered around the meta-surface design and optimization algorithms, as well as the application of deep learning algorithms in biomedical imaging.
 
 ## Participation
-- **abcde**: sssssssssss
-- **abcde**: sssssssssss
-
+- **RA in MOST**: From 2020 to 2023, I have the honor to work as a research assistant in the Microoptical Section Tomography (MOST) team at the National Optoelectronic Research Center in Wuhan. At first, I participated in the semi-automatic tracking of rat brain neuron test data. And then I was responsible for mouse glomerular image segmentation processing in the project of Fast and high-precision segmentation of all glomeruli in whole-kidney microscopic optical images via FastCellpose. Now we have a paper in delivery. I am currently in charge of a project on unpaired adversarial learning to improve optical tomography.
+- **RA in NanoLab**: Between 2022 and 2023, I was honored to take on the role of research assistant at the Nanophotonics Laboratory, where my work focused on the design of metalens arrays for rotary zoom and light detection.
+- 
 ## Awards
-- award A: **Top 10%** 2023
-- award B: **Top 5%** 2022
+- Outstanding student: **Top 10%** 2021
+- Honorable Mention in Mathematical Contest in Modeling: 2023
