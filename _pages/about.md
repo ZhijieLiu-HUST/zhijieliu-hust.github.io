@@ -12,8 +12,8 @@ redirect_from:
 I am blablabla.
 
 ## Education
-_B.E._ in Optoelectronic Information Science and Engineering
-[Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+_B.E._ in Optoelectronic Information Science and Engineering  
+[Huazhong University of Science and Technology](https://www.hust.edu.cn/)  
 _June 2020 - September 2024_ (expected gruaduation time)
 
 ## Research Intersets
